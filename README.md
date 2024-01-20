@@ -13,7 +13,7 @@
 &nbsp; <a href="mailto:arkhipkin7@icloud.com">  <img src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail" width="3.5%"/>
 
 ### Courses
-- A/B Testing - [certificate](https://lab.karpov.courses/live_certificate/3ee21b85-2d0b-4492-a4c1-686b9f08a7cf/)
+- A/B Testing - [certificate](https://github.com/arkhipkin7/ArkhipkinMikhail/blob/main/sertifications/Sim_AB_Eng.pdf)
 - Machine Learning - [certificate](https://github.com/arkhipkin7/ArkhipkinMikhail/blob/main/sertifications/StartML_ENG.pdf)
 - Simulator Machine Learning - [certificate](https://lab.karpov.courses/live_certificate/fd2657f4-b8d7-4460-a9f6-28416aca7034/)
 - Dockrer - [certificate]()
